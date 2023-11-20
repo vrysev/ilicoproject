@@ -1,0 +1,38 @@
+.sap {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    gap: 10px;
+}
+
+form {
+    display: flex;
+    gap: 5px;
+}
+
+span {
+    display: flex;
+    color: white;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: indianred;
+    color: white;
+    cursor: pointer;
+    text-transform: uppercase;
+
+}
+.buttons {
+    display: flex;
+    gap: 5px;
+
+}
+input {
+    padding: 10px;
+}
